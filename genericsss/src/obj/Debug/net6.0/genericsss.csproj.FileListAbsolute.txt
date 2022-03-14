@@ -1,0 +1,15 @@
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.csproj.AssemblyReference.cache
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.AssemblyInfoInputs.cache
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.AssemblyInfo.cs
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.csproj.CoreCompileInputs.cache
+C:\Users\bhatt\Desktop\genericsss\src\bin\Debug\net6.0\genericsss.exe
+C:\Users\bhatt\Desktop\genericsss\src\bin\Debug\net6.0\genericsss.deps.json
+C:\Users\bhatt\Desktop\genericsss\src\bin\Debug\net6.0\genericsss.runtimeconfig.json
+C:\Users\bhatt\Desktop\genericsss\src\bin\Debug\net6.0\genericsss.dll
+C:\Users\bhatt\Desktop\genericsss\src\bin\Debug\net6.0\genericsss.pdb
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.dll
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\refint\genericsss.dll
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.pdb
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\genericsss.genruntimeconfig.cache
+C:\Users\bhatt\Desktop\genericsss\src\obj\Debug\net6.0\ref\genericsss.dll
